@@ -1,0 +1,4 @@
+.venv
+.idea
+ThirdContact_Training/released_trained_models
+model.safetensors

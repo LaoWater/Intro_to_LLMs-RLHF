@@ -1,0 +1,6 @@
+setup.py
+aria_multimodal.egg-info/PKG-INFO
+aria_multimodal.egg-info/SOURCES.txt
+aria_multimodal.egg-info/dependency_links.txt
+aria_multimodal.egg-info/requires.txt
+aria_multimodal.egg-info/top_level.txt

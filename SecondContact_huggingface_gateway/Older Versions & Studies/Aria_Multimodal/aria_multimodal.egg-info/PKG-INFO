@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: aria_multimodal
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: torch
+Requires-Dist: Pillow
+Requires-Dist: transformers==4.45.0
+Requires-Dist: accelerate==0.34.1
+Requires-Dist: sentencepiece==0.2.0
+Requires-Dist: torchvision
+Requires-Dist: flash-attn
+Requires-Dist: grouped_gemm==0.1.6
