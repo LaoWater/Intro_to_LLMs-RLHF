@@ -124,7 +124,7 @@ if __name__ == "__main__":
     print("Is CUDA Available?", torch.cuda.is_available())
 
     # Define the input prompt
-    input_prompt = "to love an onion means to"
+    input_prompt = "to suck an onion means to"
 
     print("\nRunning Flan-T5 Large on CPU:")
     run_flant5_large_cpu(input_text=input_prompt)
